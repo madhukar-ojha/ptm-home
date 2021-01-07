@@ -1,0 +1,10 @@
+server:
+  port: 7071
+  servlet:
+    context-path: /ptm-login
+
+spring:
+  application:
+    name: ptm-login
+
+
